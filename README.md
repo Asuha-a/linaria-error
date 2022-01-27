@@ -12,4 +12,4 @@ yarn install
 yarn -s webpack serve
 ```
 
-3. access [http://localhost:8080/](http://localhost:8080/)
+3. access [http://localhost:8080/](http://localhost:8080/) and open console
